@@ -1,0 +1,77 @@
+Shawarma
+18.3
+13.5
+29
+350
+shawarma.png
+#
+Rice (cooked) 
+3.02
+10.66
+32.74
+228.48
+rice.png
+#
+Omelet
+6.3
+18.5
+1.8
+140
+omlete.png
+#
+vanilla ice cream
+3.02
+10.66
+32.74
+228.48
+vanila.png
+#
+Strawberry ice cream
+3.02
+10.66
+32.74
+228.48
+ice_strwpary.png
+#
+Orange
+1.2
+0.2
+15.4
+62
+orange.jpg
+#
+Green peas
+5.42
+0.40
+14.45
+81.56
+pease.jpg
+#
+Fig
+0.75
+0.2
+23.72
+74.88
+fig.png
+#
+beef burger
+25.7
+10.66
+32.74
+228.48
+burger.png
+#
+French fries
+3.4
+15
+31
+232
+fries.png
+#
+Apples
+0.5
+0.3
+25
+95
+apple.png
+#
